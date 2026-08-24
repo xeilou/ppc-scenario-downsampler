@@ -1,12 +1,21 @@
-service_area,slug,fleet_size,start_link,vehicles_file,service_area_shp
-"ASTODA, BM TODA, SP TODA",astoda_bm_toda_sp_toda,704,18207,./drt_vehicles_astoda_bm_toda_sp_toda.xml,./service_area_astoda_bm_toda_sp_toda.shp
-BANCAO BANCAO TODA,bancao_bancao_toda,377,1395,./drt_vehicles_bancao_bancao_toda.xml,./service_area_bancao_bancao_toda.shp
-ISTODA,istoda,160,2095,./drt_vehicles_istoda.xml,./service_area_istoda.shp
-"ISTODA, GVTV",istoda_gvtv,360,3368,./drt_vehicles_istoda_gvtv.xml,./service_area_istoda_gvtv.shp
-"JTODA, KABIPTODA, NNPS, NOBTODA, PASTODA, ROTONDA, LITODA (combined)",jtoda_kabiptoda_nnps_nobtoda_pastoda_rot,1276,7920,./drt_vehicles_jtoda_kabiptoda_nnps_nobtoda_pastoda_rot.xml,./service_area_jtoda_kabiptoda_nnps_nobtoda_pastoda_rot.shp
-SJTODA,sjtoda,436,9417,./drt_vehicles_sjtoda.xml,./service_area_sjtoda.shp
-SL TODA,sl_toda,174,8878,./drt_vehicles_sl_toda.xml,./service_area_sl_toda.shp
-SM CITY TODA,sm_city_toda,858,15808,./drt_vehicles_sm_city_toda.xml,./service_area_sm_city_toda.shp
-SM TODA,sm_toda,348,4517,./drt_vehicles_sm_toda.xml,./service_area_sm_toda.shp
-TODAT,todat,177,16220,./drt_vehicles_todat.xml,./service_area_todat.shp
-WESTODA,westoda,630,9086,./drt_vehicles_westoda.xml,./service_area_westoda.shp
+individual_toda,slug,service_area,fleet_size,start_link,vehicles_file,service_area_shp,TotalWaiting,AverageSpeedperTrip,AverageDistanceTravelledperTripwithLoad,stats_source
+ASTODA,astoda,"ASTODA, BM TODA, SP TODA",235,18207,drt_vehicles_astoda.xml,service_area_astoda_bm_toda_sp_toda.shp,756.512,14.507994446,5.1892000000000005,measured
+BM TODA,bmtoda,"ASTODA, BM TODA, SP TODA",235,18207,drt_vehicles_bmtoda.xml,service_area_astoda_bm_toda_sp_toda.shp,756.512,14.507994446,5.1892000000000005,measured
+SP TODA,sptoda,"ASTODA, BM TODA, SP TODA",234,18207,drt_vehicles_sptoda.xml,service_area_astoda_bm_toda_sp_toda.shp,756.512,14.507994446,5.1892000000000005,measured
+BANCAO BANCAO TODA,bancao_bancao_toda,BANCAO BANCAO TODA,377,1395,drt_vehicles_bancao_bancao_toda.xml,service_area_bancao_bancao_toda.shp,350.09000000000003,13.373493055,7.224666666166667,measured
+ISTODA,istoda,ISTODA,160,2095,drt_vehicles_istoda.xml,service_area_istoda.shp,516.1903194444444,14.668193162107638,4.356878472104167,estimated (citywide average)
+GVTV,gvtv,"ISTODA, GVTV",180,3368,drt_vehicles_gvtv.xml,service_area_istoda_gvtv.shp,516.1903194444444,14.668193162107638,4.356878472104167,estimated (citywide average)
+ISTODA_2,istoda2,"ISTODA, GVTV",180,3368,drt_vehicles_istoda2.xml,service_area_istoda_gvtv.shp,516.1903194444444,14.668193162107638,4.356878472104167,estimated (citywide average)
+JTODA,jtoda,"JTODA, KABIPTODA, NNPS, NOBTODA, PASTODA, ROTONDA, LITODA (combined)",183,7920,drt_vehicles_jtoda.xml,service_area_jtoda_kabiptoda_nnps_nobtoda_pastoda_rot.shp,409.6272222222222,12.285443981277778,2.4783833333333334,measured
+KABIPTODA,kabiptoda,"JTODA, KABIPTODA, NNPS, NOBTODA, PASTODA, ROTONDA, LITODA (combined)",183,7920,drt_vehicles_kabiptoda.xml,service_area_jtoda_kabiptoda_nnps_nobtoda_pastoda_rot.shp,409.6272222222222,12.285443981277778,2.4783833333333334,measured
+LITODA,litoda,"JTODA, KABIPTODA, NNPS, NOBTODA, PASTODA, ROTONDA, LITODA (combined)",182,7920,drt_vehicles_litoda.xml,service_area_jtoda_kabiptoda_nnps_nobtoda_pastoda_rot.shp,409.6272222222222,12.285443981277778,2.4783833333333334,measured
+NNPS,nnps,"JTODA, KABIPTODA, NNPS, NOBTODA, PASTODA, ROTONDA, LITODA (combined)",182,7920,drt_vehicles_nnps.xml,service_area_jtoda_kabiptoda_nnps_nobtoda_pastoda_rot.shp,409.6272222222222,12.285443981277778,2.4783833333333334,measured
+NOBTODA,nobtoda,"JTODA, KABIPTODA, NNPS, NOBTODA, PASTODA, ROTONDA, LITODA (combined)",182,7920,drt_vehicles_nobtoda.xml,service_area_jtoda_kabiptoda_nnps_nobtoda_pastoda_rot.shp,409.6272222222222,12.285443981277778,2.4783833333333334,measured
+PASTODA,pastoda,"JTODA, KABIPTODA, NNPS, NOBTODA, PASTODA, ROTONDA, LITODA (combined)",182,7920,drt_vehicles_pastoda.xml,service_area_jtoda_kabiptoda_nnps_nobtoda_pastoda_rot.shp,409.6272222222222,12.285443981277778,2.4783833333333334,measured
+ROTONDA,rotonda,"JTODA, KABIPTODA, NNPS, NOBTODA, PASTODA, ROTONDA, LITODA (combined)",182,7920,drt_vehicles_rotonda.xml,service_area_jtoda_kabiptoda_nnps_nobtoda_pastoda_rot.shp,409.6272222222222,12.285443981277778,2.4783833333333334,measured
+SJTODA,sjtoda,SJTODA,436,9417,drt_vehicles_sjtoda.xml,service_area_sjtoda.shp,364.28,15.50815625125,4.1625000000000005,measured
+SL TODA,sl_toda,SL TODA,174,8878,drt_vehicles_sl_toda.xml,service_area_sl_toda.shp,389.3200000000001,13.34225,3.0429166665,measured
+SM CITY TODA,sm_city_toda,SM CITY TODA,858,15808,drt_vehicles_sm_city_toda.xml,service_area_sm_city_toda.shp,516.1903194444444,14.668193162107638,4.356878472104167,estimated (citywide average)
+SM TODA,sm_toda,SM TODA,348,4517,drt_vehicles_sm_toda.xml,service_area_sm_toda.shp,1014.4366666666666,17.286531636666666,4.258101851666667,measured
+TODAT,todat,TODAT,177,16220,drt_vehicles_todat.xml,service_area_todat.shp,372.6,17.24375,2.4916666665,measured
+WESTODA,westoda,WESTODA,630,9086,drt_vehicles_westoda.xml,service_area_westoda.shp,472.6566666666667,13.797925926666666,6.007592592666666,measured

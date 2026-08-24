@@ -5,12 +5,5 @@
 
 	<transitStops>
 		<stopFacility id="BANCAO_BANCAO_TODA_0" x="691454.7516907904" y="1077156.4440952851" linkRefId="11316" name="BANCAO BANCAO TODA terminal (cluster 0, 18.7h dwell)" isBlocking="false"/>
-		<stopFacility id="BANCAO_BANCAO_TODA_1" x="693114.7825300461" y="1077111.161715844" linkRefId="1585" name="BANCAO BANCAO TODA terminal (cluster 1, 0.9h dwell)" isBlocking="false"/>
-		<stopFacility id="BANCAO_BANCAO_TODA_2" x="693604.0873562857" y="1077056.4989341528" linkRefId="11264" name="BANCAO BANCAO TODA terminal (cluster 2, 3.0h dwell)" isBlocking="false"/>
-		<stopFacility id="BANCAO_BANCAO_TODA_3" x="693706.7443677911" y="1076827.712841277" linkRefId="3102" name="BANCAO BANCAO TODA terminal (cluster 3, 8.4h dwell)" isBlocking="false"/>
-		<stopFacility id="PASTODA_1" x="693637.5785711776" y="1075512.1962852003" linkRefId="10461" name="PASTODA terminal (cluster 1, 4.9h dwell)" isBlocking="false"/>
-		<stopFacility id="PASTODA_6" x="693607.4398481812" y="1075639.1299763652" linkRefId="10461" name="PASTODA terminal (cluster 6, 2.1h dwell)" isBlocking="false"/>
-		<stopFacility id="ROTONDA_5" x="693070.8447660396" y="1077170.422851426" linkRefId="1805" name="ROTONDA terminal (cluster 5, 22.1h dwell)" isBlocking="false"/>
-		<stopFacility id="SL_TODA_1" x="693607.4398481812" y="1075639.1299763652" linkRefId="10461" name="SL TODA terminal (cluster 1, 2.1h dwell)" isBlocking="false"/>
 	</transitStops>
 </transitSchedule>

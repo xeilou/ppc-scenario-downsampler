@@ -4,14 +4,12 @@
 <transitSchedule>
 
 	<transitStops>
-		<stopFacility id="BANCAO_BANCAO_TODA_4" x="690584.2292255687" y="1077428.9270092207" linkRefId="6119" name="BANCAO BANCAO TODA terminal (cluster 4, 3.5h dwell)" isBlocking="false"/>
-		<stopFacility id="BM_TODA_5" x="690623.61801094" y="1076803.9805468684" linkRefId="14512" name="BM TODA terminal (cluster 5, 1.0h dwell)" isBlocking="false"/>
-		<stopFacility id="LITODA_1" x="691117.1364983716" y="1076023.9196338244" linkRefId="2231" name="LITODA terminal (cluster 1, 7.2h dwell)" isBlocking="false"/>
-		<stopFacility id="LITODA_2" x="691146.9835823884" y="1075949.044398028" linkRefId="2232" name="LITODA terminal (cluster 2, 20.0h dwell)" isBlocking="false"/>
+		<stopFacility id="BANCAO_BANCAO_TODA_4" x="690584.2292255687" y="1077428.9270092207" linkRefId="pt_14633_realstop_LPTRP_1A_003" name="BANCAO BANCAO TODA terminal (cluster 4, 3.5h dwell)" isBlocking="false"/>
+		<stopFacility id="LITODA_1" x="691117.1364983716" y="1076023.9196338248" linkRefId="2231" name="LITODA terminal (cluster 1, 7.2h dwell)" isBlocking="false"/>
 		<stopFacility id="PASTODA_0" x="690281.3654053996" y="1077436.4405523748" linkRefId="11587" name="PASTODA terminal (cluster 0, 10.4h dwell)" isBlocking="false"/>
-		<stopFacility id="PASTODA_2" x="690862.3509187442" y="1076638.0399719316" linkRefId="12431" name="PASTODA terminal (cluster 2, 0.7h dwell)" isBlocking="false"/>
+		<stopFacility id="PASTODA_2" x="690862.3509187414" y="1076638.0399719316" linkRefId="12431" name="PASTODA terminal (cluster 2, 0.7h dwell)" isBlocking="false"/>
 		<stopFacility id="ROTONDA_8" x="690631.4858457362" y="1076823.7229825985" linkRefId="14512" name="ROTONDA terminal (cluster 8, 1.7h dwell)" isBlocking="false"/>
-		<stopFacility id="SM_TODA_0" x="690968.319115595" y="1077081.6902024949" linkRefId="2890" name="SM TODA terminal (cluster 0, 2.9h dwell)" isBlocking="false"/>
-		<stopFacility id="WESTODA_0" x="690580.1795211559" y="1077428.5215381011" linkRefId="6119" name="WESTODA terminal (cluster 0, 22.2h dwell)" isBlocking="false"/>
+		<stopFacility id="SM_TODA_0" x="690968.3191155978" y="1077081.6902024949" linkRefId="2890" name="SM TODA terminal (cluster 0, 2.9h dwell)" isBlocking="false"/>
+		<stopFacility id="WESTODA_0" x="690580.1795211559" y="1077428.5215381011" linkRefId="pt_14633_realstop_LPTRP_1A_003" name="WESTODA terminal (cluster 0, 22.2h dwell)" isBlocking="false"/>
 	</transitStops>
 </transitSchedule>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE transitSchedule SYSTEM "http://www.matsim.org/files/dtd/transitSchedule_v2.dtd">
-
-<transitSchedule>
-
-	<transitStops>
-		<stopFacility id="WESTODA_2" x="688534.3272865828" y="1084305.530659934" linkRefId="10323" name="WESTODA terminal (cluster 2, 3.5h dwell)" isBlocking="false"/>
-	</transitStops>
-</transitSchedule>

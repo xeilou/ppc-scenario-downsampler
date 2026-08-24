@@ -4,6 +4,6 @@
 <transitSchedule>
 
 	<transitStops>
-		<stopFacility id="WESTODA_2" x="688534.3272865828" y="1084305.530659934" linkRefId="10323" name="WESTODA terminal (cluster 2, 3.5h dwell)" isBlocking="false"/>
+		<stopFacility id="drt_istoda2_centroid_placeholder" x="687692.599165987" y="1083086.883712872" linkRefId="3365" name="drt_istoda2 terminal (centroid placeholder -- no surveyed data)" isBlocking="false"/>
 	</transitStops>
 </transitSchedule>

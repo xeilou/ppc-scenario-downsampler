@@ -23,17 +23,17 @@ TOOL_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # How much of the full-size scenario to keep, as a decimal fraction.
 # 0.01 = 1%, 0.1 = 10%, 0.5 = 50%.
-FRACTION = 0.2
+FRACTION = 0.10
 
 # A short label for this scenario. It's used to name the output files and
 # folders (e.g. "1pct" -> plans-1pct.xml.gz, downsampled-1pct-demo/, ...).
 # Use only letters, numbers, and hyphens.
-LABEL = "20pct"
+LABEL = "10pct"
 
 # How many MATSim iterations to run. Higher = more realistic (agents get
 # more chances to find better routes/modes) but slower. The project's own
 # baseline config uses 40; a quick demo run might use 5-10 instead.
-ITERATIONS = 40
+ITERATIONS = 5
 
 # --- The full-size ("100%") input files to shrink down ---
 # These already point at the copies bundled in this tool's own input/
