@@ -1,0 +1,7 @@
+<!DOCTYPE vehicles SYSTEM "http://matsim.org/files/dtd/dvrp_vehicles_v1.dtd">
+
+<vehicles>
+	<vehicle id="drt_litoda_0001" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_litoda_0010" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_litoda_0019" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+</vehicles>

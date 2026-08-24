@@ -1,0 +1,22 @@
+<!DOCTYPE vehicles SYSTEM "http://matsim.org/files/dtd/dvrp_vehicles_v1.dtd">
+
+<vehicles>
+	<vehicle id="drt_todat_0001" start_link="12118" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0011" start_link="15268" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0021" start_link="12118" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0031" start_link="15268" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0040" start_link="15280" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0050" start_link="15261" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0060" start_link="15280" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0070" start_link="15261" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0080" start_link="15280" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0089" start_link="12118" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0099" start_link="15268" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0109" start_link="12118" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0119" start_link="15268" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0129" start_link="12118" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0139" start_link="15268" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0149" start_link="12118" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0158" start_link="15261" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_todat_0168" start_link="15280" t_0="18000.0" t_1="79200.0" capacity="5"/>
+</vehicles>

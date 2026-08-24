@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE transitSchedule SYSTEM "http://www.matsim.org/files/dtd/transitSchedule_v2.dtd">
+
+<transitSchedule>
+
+	<transitStops>
+		<stopFacility id="drt_sl_toda_centroid_placeholder" x="687803.021695433" y="1089001.8163549586" linkRefId="8878" name="drt_sl_toda terminal (centroid placeholder -- no surveyed data)" isBlocking="false"/>
+	</transitStops>
+</transitSchedule>

@@ -1,0 +1,40 @@
+<!DOCTYPE vehicles SYSTEM "http://matsim.org/files/dtd/dvrp_vehicles_v1.dtd">
+
+<vehicles>
+	<vehicle id="drt_nnps_0001" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0006" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0011" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0016" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0021" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0026" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0031" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0036" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0041" start_link="2231" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0047" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0052" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0057" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0062" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0067" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0072" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0077" start_link="2231" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0082" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0087" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0092" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0097" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0102" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0107" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0112" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0117" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0122" start_link="2231" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0127" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0132" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0137" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0143" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0148" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0153" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0158" start_link="2231" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0163" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0168" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0173" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_nnps_0178" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+</vehicles>

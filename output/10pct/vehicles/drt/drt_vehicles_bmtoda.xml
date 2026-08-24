@@ -1,0 +1,28 @@
+<!DOCTYPE vehicles SYSTEM "http://matsim.org/files/dtd/dvrp_vehicles_v1.dtd">
+
+<vehicles>
+	<vehicle id="drt_bmtoda_0001" start_link="12619" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0011" start_link="12831" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0021" start_link="13550" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0030" start_link="13550" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0040" start_link="14924" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0050" start_link="15613" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0060" start_link="16703" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0070" start_link="329" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0079" start_link="329" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0089" start_link="4233" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0099" start_link="4490" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0109" start_link="12619" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0119" start_link="12831" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0128" start_link="12831" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0138" start_link="13550" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0148" start_link="14924" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0158" start_link="15613" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0167" start_link="15613" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0177" start_link="16703" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0187" start_link="329" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0197" start_link="4233" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0207" start_link="4490" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0216" start_link="4490" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bmtoda_0226" start_link="12619" t_0="18000.0" t_1="79200.0" capacity="5"/>
+</vehicles>

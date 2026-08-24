@@ -1,0 +1,44 @@
+<!DOCTYPE vehicles SYSTEM "http://matsim.org/files/dtd/dvrp_vehicles_v1.dtd">
+
+<vehicles>
+	<vehicle id="drt_pastoda_0001" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0011" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0021" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0031" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0041" start_link="2231" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0050" start_link="2231" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0060" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0070" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0080" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0090" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0100" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0110" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0119" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0129" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0139" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0149" start_link="2231" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0159" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0169" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0179" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0189" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0199" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0208" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0218" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0228" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0238" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0248" start_link="2231" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0258" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0268" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0277" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0287" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0297" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0307" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0317" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0327" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0337" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0347" start_link="2231" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0357" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0366" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0376" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_pastoda_0386" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+</vehicles>

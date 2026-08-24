@@ -1,0 +1,43 @@
+﻿<!DOCTYPE vehicles SYSTEM "http://matsim.org/files/dtd/dvrp_vehicles_v1.dtd">
+
+<vehicles>
+	<vehicle id="drt_jtoda_0001" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0002" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0003" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0004" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0005" start_link="2231" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0006" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0007" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0008" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0009" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0010" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0011" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0012" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0013" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0014" start_link="2231" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0015" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0016" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0017" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0018" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0019" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0020" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0021" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0022" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0023" start_link="2231" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0024" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0025" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0026" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0027" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0028" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0029" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0030" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0031" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0032" start_link="2231" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0033" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0034" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0035" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0036" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0037" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0038" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0039" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+</vehicles>

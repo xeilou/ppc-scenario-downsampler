@@ -1,0 +1,12 @@
+service_area,slug,fleet_size,start_link,vehicles_file,service_area_shp
+"ASTODA, BM TODA, SP TODA",astoda_bm_toda_sp_toda,704,18207,./drt_vehicles_astoda_bm_toda_sp_toda.xml,./service_area_astoda_bm_toda_sp_toda.shp
+BANCAO BANCAO TODA,bancao_bancao_toda,377,1395,./drt_vehicles_bancao_bancao_toda.xml,./service_area_bancao_bancao_toda.shp
+ISTODA,istoda,160,2095,./drt_vehicles_istoda.xml,./service_area_istoda.shp
+"ISTODA, GVTV",istoda_gvtv,360,3368,./drt_vehicles_istoda_gvtv.xml,./service_area_istoda_gvtv.shp
+"JTODA, KABIPTODA, NNPS, NOBTODA, PASTODA, ROTONDA, LITODA (combined)",jtoda_kabiptoda_nnps_nobtoda_pastoda_rot,1276,7920,./drt_vehicles_jtoda_kabiptoda_nnps_nobtoda_pastoda_rot.xml,./service_area_jtoda_kabiptoda_nnps_nobtoda_pastoda_rot.shp
+SJTODA,sjtoda,436,9417,./drt_vehicles_sjtoda.xml,./service_area_sjtoda.shp
+SL TODA,sl_toda,174,8878,./drt_vehicles_sl_toda.xml,./service_area_sl_toda.shp
+SM CITY TODA,sm_city_toda,858,15808,./drt_vehicles_sm_city_toda.xml,./service_area_sm_city_toda.shp
+SM TODA,sm_toda,348,4517,./drt_vehicles_sm_toda.xml,./service_area_sm_toda.shp
+TODAT,todat,177,16220,./drt_vehicles_todat.xml,./service_area_todat.shp
+WESTODA,westoda,630,9086,./drt_vehicles_westoda.xml,./service_area_westoda.shp

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE transitSchedule SYSTEM "http://www.matsim.org/files/dtd/transitSchedule_v2.dtd">
+
+<transitSchedule>
+
+	<transitStops>
+		<stopFacility id="LITODA_0" x="691323.223539836" y="1077511.8487342242" linkRefId="1210" name="LITODA terminal (cluster 0, 3.6h dwell)" isBlocking="false"/>
+		<stopFacility id="PASTODA_3" x="691322.528646532" y="1077511.9721389331" linkRefId="1210" name="PASTODA terminal (cluster 3, 10.4h dwell)" isBlocking="false"/>
+		<stopFacility id="PASTODA_4" x="691038.8728294472" y="1078090.7630257201" linkRefId="1255" name="PASTODA terminal (cluster 4, 2.9h dwell)" isBlocking="false"/>
+		<stopFacility id="PASTODA_5" x="690921.3683914025" y="1078086.1683547562" linkRefId="14543" name="PASTODA terminal (cluster 5, 21.3h dwell)" isBlocking="false"/>
+		<stopFacility id="SJTODA_4" x="691730.5178630413" y="1078484.945512271" linkRefId="17807" name="SJTODA terminal (cluster 4, 11.3h dwell)" isBlocking="false"/>
+		<stopFacility id="SL_TODA_0" x="690919.2746369113" y="1078085.79481091" linkRefId="14543" name="SL TODA terminal (cluster 0, 19.9h dwell)" isBlocking="false"/>
+		<stopFacility id="SM_TODA_1" x="690771.1974751274" y="1077554.9945446544" linkRefId="14634" name="SM TODA terminal (cluster 1, 1.9h dwell)" isBlocking="false"/>
+		<stopFacility id="SM_TODA_2" x="690981.2751798003" y="1078142.436476218" linkRefId="18014" name="SM TODA terminal (cluster 2, 0.8h dwell)" isBlocking="false"/>
+		<stopFacility id="SM_TODA_3" x="690936.5681799148" y="1078070.614479324" linkRefId="14541" name="SM TODA terminal (cluster 3, 3.2h dwell)" isBlocking="false"/>
+		<stopFacility id="SM_TODA_4" x="690877.081878037" y="1078037.1439123913" linkRefId="10804" name="SM TODA terminal (cluster 4, 0.9h dwell)" isBlocking="false"/>
+		<stopFacility id="SM_TODA_9" x="690976.5639598317" y="1077509.2215953807" linkRefId="7638" name="SM TODA terminal (cluster 9, 1.0h dwell)" isBlocking="false"/>
+		<stopFacility id="UNKNOWN_0" x="691766.3902265267" y="1078480.9646525693" linkRefId="17807" name="UNKNOWN terminal (cluster 0, 29.0h dwell)" isBlocking="false"/>
+		<stopFacility id="UNKNOWN_1" x="691984.5395373668" y="1078183.1400322893" linkRefId="6794" name="UNKNOWN terminal (cluster 1, 13.0h dwell)" isBlocking="false"/>
+		<stopFacility id="UNKNOWN_6" x="690767.9586881099" y="1077566.7472762673" linkRefId="14634" name="UNKNOWN terminal (cluster 6, 5.0h dwell)" isBlocking="false"/>
+		<stopFacility id="UNKNOWN_8" x="692820.3970456931" y="1078532.6395129424" linkRefId="17765" name="UNKNOWN terminal (cluster 8, 1.1h dwell)" isBlocking="false"/>
+		<stopFacility id="WESTODA_1" x="694184.2637687929" y="1078147.8902983146" linkRefId="12823" name="WESTODA terminal (cluster 1, 2.2h dwell)" isBlocking="false"/>
+	</transitStops>
+</transitSchedule>

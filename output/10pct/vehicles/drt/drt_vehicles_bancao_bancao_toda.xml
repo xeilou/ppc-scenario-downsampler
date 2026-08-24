@@ -1,0 +1,42 @@
+<!DOCTYPE vehicles SYSTEM "http://matsim.org/files/dtd/dvrp_vehicles_v1.dtd">
+
+<vehicles>
+	<vehicle id="drt_bancao_bancao_toda_0001" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0011" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0021" start_link="11316" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0031" start_link="1805" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0041" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0051" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0061" start_link="11316" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0070" start_link="1585" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0080" start_link="3102" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0090" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0100" start_link="11264" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0110" start_link="1585" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0120" start_link="3102" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0130" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0140" start_link="11264" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0150" start_link="1585" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0160" start_link="3102" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0170" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0180" start_link="11264" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0189" start_link="11316" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0199" start_link="1805" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0209" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0219" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0229" start_link="11316" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0239" start_link="1805" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0249" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0259" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0269" start_link="11316" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0279" start_link="1805" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0289" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0299" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0309" start_link="11316" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0318" start_link="1585" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0328" start_link="3102" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0338" start_link="10461" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0348" start_link="11264" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0358" start_link="1585" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_bancao_bancao_toda_0368" start_link="3102" t_0="18000.0" t_1="79200.0" capacity="5"/>
+</vehicles>

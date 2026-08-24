@@ -1,0 +1,12 @@
+<!DOCTYPE vehicles SYSTEM "http://matsim.org/files/dtd/dvrp_vehicles_v1.dtd">
+
+<vehicles>
+	<vehicle id="drt_jtoda_0001" start_link="11587" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0006" start_link="2232" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0011" start_link="12431" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0016" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0021" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0025" start_link="2890" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0030" start_link="14512" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_jtoda_0035" start_link="6119" t_0="18000.0" t_1="79200.0" capacity="5"/>
+</vehicles>

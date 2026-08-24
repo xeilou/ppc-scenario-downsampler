@@ -1,0 +1,51 @@
+<!DOCTYPE vehicles SYSTEM "http://matsim.org/files/dtd/dvrp_vehicles_v1.dtd">
+
+<vehicles>
+	<vehicle id="drt_astoda_0001" start_link="12619" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0006" start_link="16703" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0011" start_link="12831" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0016" start_link="329" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0021" start_link="13550" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0026" start_link="4233" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0031" start_link="14924" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0036" start_link="4490" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0041" start_link="15613" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0046" start_link="12619" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0051" start_link="16703" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0056" start_link="12831" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0061" start_link="329" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0066" start_link="13550" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0071" start_link="4233" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0076" start_link="14924" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0081" start_link="4490" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0086" start_link="15613" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0091" start_link="12619" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0096" start_link="16703" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0101" start_link="12831" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0106" start_link="329" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0111" start_link="13550" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0116" start_link="4233" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0121" start_link="14924" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0126" start_link="4490" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0131" start_link="15613" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0136" start_link="12619" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0141" start_link="16703" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0146" start_link="12831" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0151" start_link="329" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0156" start_link="13550" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0161" start_link="4233" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0166" start_link="14924" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0171" start_link="4490" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0176" start_link="15613" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0181" start_link="12619" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0186" start_link="16703" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0191" start_link="12831" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0196" start_link="329" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0201" start_link="13550" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0206" start_link="4233" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0211" start_link="14924" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0216" start_link="4490" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0221" start_link="15613" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0226" start_link="12619" t_0="18000.0" t_1="79200.0" capacity="5"/>
+	<vehicle id="drt_astoda_0231" start_link="16703" t_0="18000.0" t_1="79200.0" capacity="5"/>
+</vehicles>

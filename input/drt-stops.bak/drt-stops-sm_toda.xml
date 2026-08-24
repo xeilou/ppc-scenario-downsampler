@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE transitSchedule SYSTEM "http://www.matsim.org/files/dtd/transitSchedule_v2.dtd">
+
+<transitSchedule>
+
+	<transitStops>
+		<stopFacility id="BM_TODA_1" x="694240.2820466193" y="1080468.2043917691" linkRefId="2302" name="BM TODA terminal (cluster 1, 7.2h dwell)" isBlocking="false"/>
+		<stopFacility id="BM_TODA_3" x="693576.1957018583" y="1081441.6433353596" linkRefId="14101" name="BM TODA terminal (cluster 3, 50.4h dwell)" isBlocking="false"/>
+		<stopFacility id="SJTODA_0" x="691733.2348487335" y="1081672.2543048305" linkRefId="12615" name="SJTODA terminal (cluster 0, 1.5h dwell)" isBlocking="false"/>
+		<stopFacility id="SL_TODA_2" x="691730.2149566861" y="1081672.1015778224" linkRefId="12615" name="SL TODA terminal (cluster 2, 5.7h dwell)" isBlocking="false"/>
+		<stopFacility id="SM_TODA_5" x="691790.0978765261" y="1081640.7958045693" linkRefId="17161" name="SM TODA terminal (cluster 5, 27.8h dwell)" isBlocking="false"/>
+		<stopFacility id="SM_TODA_6" x="691763.335618264" y="1081383.2474180597" linkRefId="10320" name="SM TODA terminal (cluster 6, 4.6h dwell)" isBlocking="false"/>
+		<stopFacility id="SM_TODA_7" x="693919.2468468063" y="1082394.5639219685" linkRefId="6418" name="SM TODA terminal (cluster 7, 1.1h dwell)" isBlocking="false"/>
+		<stopFacility id="SM_TODA_8" x="691749.819505524" y="1080490.8474369082" linkRefId="2446" name="SM TODA terminal (cluster 8, 3.8h dwell)" isBlocking="false"/>
+		<stopFacility id="UNKNOWN_7" x="694237.5054999291" y="1080322.212317703" linkRefId="15677" name="UNKNOWN terminal (cluster 7, 9.0h dwell)" isBlocking="false"/>
+	</transitStops>
+</transitSchedule>
